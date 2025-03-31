@@ -1,0 +1,6 @@
+Basic zerodha landing page using fundamental technology of web development.
+Tech: HTML, CSS, JS
+
+div- takes up whole space  
+
+span- takes up only as much space and needed.
